@@ -12,3 +12,9 @@ Results of dcm2nii conversion for both T1 and UTE are aggregated in preproc fold
 
 After BET/FAST processing (imaged through Papaya visualizer):
 <img src="pics/post-fast.png">
+
+
+Summer 2018: 
+Registration for UTE_T2 data to T1 space. 
+All data files can be found at /data/larson/brain_uT2/Rohit_Seg_Project. 
+This also includes a sample first pass B/W segmentation using FSL. 
